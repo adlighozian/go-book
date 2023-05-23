@@ -1,0 +1,2 @@
+# Menggunakan SQL dengna parameter
+

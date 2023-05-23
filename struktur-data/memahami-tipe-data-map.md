@@ -1,0 +1,2 @@
+# Memahami Tipe Data Map
+

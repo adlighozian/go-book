@@ -1,0 +1,2 @@
+# Memahami Anonymous Function
+

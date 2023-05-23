@@ -1,4 +1,8 @@
-# go-book
+---
+description: >-
+  gitbook ini dibuat untuk catatan saya selama mengikuti kegiatan go-trinee di
+  phincon
+---
 
-https://shoopitypoopitys-organization.gitbook.io/golang/
+# About
 
